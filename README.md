@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="https://dev.to/francocontigo" alt="Dev.to">
-  <img src="https://img.shields.io/badge/dev.to-gray?style=flat-square&logo=dev.to&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dev.to-gray?style=flat-square&logo=dev.to&logoColor=white"/>
 </a>
 
 <a href="mailto:ricardoaugustofranco@hotmail.com">
