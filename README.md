@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-<a href="https://dev.to/francocontig)" alt="Dev.to">
+<a href="https://dev.to/francocontigo" alt="Dev.to">
   <img src="https://img.shields.io/badge/dev.to-gray?style=flat-square&logo=dev.to&logoColor=white"/>
 </a>
 
