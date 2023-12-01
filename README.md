@@ -1,6 +1,6 @@
 # Ricardo Franco
 
-<img src="woodstock.png" width="250px" align="right">
+<img src="woodstock.png" width="6rem" align="right">
 
 <p align="left"> 
       Hello there! I'm a 23-year-old aspiring <strong>Data Something(Scientist or Engineer)</strong> currently pursuing a degree in <strong>Information Systems 5/8</strong>.
