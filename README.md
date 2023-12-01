@@ -51,15 +51,7 @@
   ![Selenium](https://img.shields.io/badge/selenium-100000?style=for-the-badge&logo=selenium)
   
 # My Status
-<div>
-  <table style="margin: 0 auto;" align="left">
-    <tr>
-      <td>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=dracula"/>
-      </td>
-      <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=dracula&count_private=true"/>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=dracula"/>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=dracula&count_private=true"/>
+
