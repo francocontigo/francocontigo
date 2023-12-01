@@ -1,6 +1,6 @@
 # Ricardo Franco
 
-<img src="https://i.pinimg.com/564x/1a/84/02/1a8402aa701a7a262958c9b8fb4735e9.jpg" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://i.pinimg.com/564x/d9/74/9d/d9749d7680ca74f28cdb5e30f58aa4b3.jpg" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
       Hello there! I'm a 23-year-old aspiring <strong>Data Something(Scientist or Engineer)</strong> currently pursuing a degree in <strong>Information Systems 5/8</strong>.
