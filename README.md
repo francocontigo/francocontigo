@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="mailto:ricardoaugustofranco@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-gray?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/francocontigo" alt="Twitter">
@@ -30,21 +30,17 @@
 
 <strong>My Skills:<strong>
   
- <details>
     Languages
     
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![SQL](https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=)
-  </details>
-  <details>
     Tools
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
   ![Django](https://img.shields.io/badge/django-100000?style=for-the-badge&logo=django)
   ![Selenium](https://img.shields.io/badge/selenium-100000?style=for-the-badge&logo=selenium)
-  </details>
   
 # My Status
 <div>
