@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-      learning how to be a part of open-source community in [RedHacks](https://github.com/CaravanaCloud/redhacks) 🎩
+      learning how to be a part of open-source community in <a href="https://github.com/CaravanaCloud/redhacks" target="_blank">RedHacks!</a> 🎩
 </p>
  
 <p align="left">
