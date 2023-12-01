@@ -30,12 +30,12 @@
 
 <strong>My Skills:<strong>
   
-    Languages
+<p>Languages</p>
     
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![SQL](https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=)
-    Tools
+<p>Tools</p>
     
   ![Git](https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git)
   ![Flask](https://img.shields.io/badge/flask-100000?style=for-the-badge&logo=flask)
