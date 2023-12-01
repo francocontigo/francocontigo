@@ -52,7 +52,7 @@
   
 # My Status
 <div>
-  <table style="margin: 0 auto;" align="center">
+  <table style="margin: 0 auto;" align="left">
     <tr>
       <td>
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=dracula"/>
