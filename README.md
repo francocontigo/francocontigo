@@ -7,6 +7,10 @@
 </p>
 
 <p align="left">
+      learning how to be a part of open-source community
+</p>
+ 
+<p align="left">
   🕑 I'm Learning: <strong>Python, scraping and Pandas</strong>
 </p>
 
