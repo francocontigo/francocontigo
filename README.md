@@ -53,5 +53,5 @@
 # My Status
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=dracula"/>
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=dracula&count_private=true"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=dracula&count_private=true"/>
 
