@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="mailto:ricardoaugustofranco@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-gray?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-gray?style=flat-square&logo=outlook&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/francocontigo" alt="Twitter">
