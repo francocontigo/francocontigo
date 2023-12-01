@@ -41,7 +41,7 @@
 <p>Languages</p>
     
   ![Python](https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=blue)
-  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
+  ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=blockchaindotcom)
   ![SQL](https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=DataBase)
 <p>Tools</p>
     
