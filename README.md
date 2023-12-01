@@ -55,15 +55,14 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=sandypiropo&theme=react&hide_border=false"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=dracula&count_private=true"/>
       </td>
     </tr>
   </table>
 </div>
-
 
 <!--
 ![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
