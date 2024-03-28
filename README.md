@@ -27,10 +27,6 @@
   <img src="https://img.shields.io/badge/Microsoft_Outlook-grey?style=flat-square&logo=microsoft-outlook&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/francocontigo" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-gray?style=flat-square&labelColor=gray&logo=twitter&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/francocontigo/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francocontigo/"/>
 </a>
