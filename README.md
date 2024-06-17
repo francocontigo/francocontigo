@@ -48,7 +48,7 @@
   
 # My Status
 
-<img class="github-stats" height="175em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=gruvbox"/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=gruvbox&count_private=true"/>
+<img class="github-stats" height="175em" src="https://github-readme-stats.vercel.app/api?username=francocontigo&show_icons=true&theme=onedark"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francocontigo&layout=compact&theme=onedark&count_private=true"/>
 
 
