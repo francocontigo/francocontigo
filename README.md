@@ -11,7 +11,7 @@
 </p>
  
 <p align="left">
-  🕑 I'm Learning: <strong>Python, scraping and Pandas</strong>
+  🕑 I'm Learning: <strong>Python, ML and CI/CD</strong>
 </p>
 
 <p align="left">
