@@ -3,11 +3,11 @@
 <img src="woodstock.png" width="275px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 24-year-old aspiring <strong>Data Something(Scientist or Engineer)</strong> currently pursuing a degree in <strong>Information Systems 6/8</strong>.
+      Hello there! I'm a 24-year-old aspiring <strong>Data Something(Scientist or Engineer)</strong> currently pursuing a degree in <strong>Information Systems 7/8</strong>.
 </p>
 
 <p align="left">
-      learning how to be a part of open-source community in <a href="https://github.com/CaravanaCloud" target="_blank">CaravanaCloud!</a> ⛵
+      Part of open-source community in <a href="https://github.com/CaravanaCloud" target="_blank">CaravanaCloud!</a> ⛵
 </p>
  
 <p align="left">
