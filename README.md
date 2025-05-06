@@ -3,7 +3,7 @@
 <img src="woodstock.png" width="275px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 24-year-old aspiring <strong>Data Something(Scientist or Engineer)</strong> currently pursuing a degree in <strong>Information Systems 7/8</strong>.
+      Hello there! I'm a 25-year-old aspiring <strong>Data Something</strong> currently pursuing a degree in <strong>Information Systems 7/8</strong> and working as <strong>AI Tech Lead</strong>.
 </p>
 
 <p align="left">
@@ -11,7 +11,7 @@
 </p>
  
 <p align="left">
-  🕑 I'm Learning: <strong>Python, ML and CI/CD</strong>
+  🕑 I'm Learning: <strong>NLP</strong>
 </p>
 
 <p align="left">
