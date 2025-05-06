@@ -3,7 +3,7 @@
 <img src="woodstock.png" width="275px" align="right">
 
 <p align="left"> 
-      Hello there! I'm a 25-year-old aspiring <strong>Data Something</strong> currently pursuing a degree in <strong>Information Systems 7/8</strong> and working as <strong>AI Tech Lead</strong>.
+      Hello there! I'm a 25-year-old aspiring <strong>Data Something</strong> currently pursuing a degree in <strong>Information Systems 7/8</strong> and working as <strong>AI Tech Lead</strong> in a brazilian financial startup.
 </p>
 
 <p align="left">
